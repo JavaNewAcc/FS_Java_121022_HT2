@@ -10,5 +10,4 @@ public class TaskTwo {
 		int value = price * qtty;
 		System.out.println("Загальна вартість покупки складає: " + value + " USD");
 	}
-
 }
